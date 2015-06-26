@@ -20,3 +20,4 @@ List of apps to install on allotment/requisitioning of machine
 - JumpCut or Flycut
 - Launchy, Quicksilver
 - PhraseExpress or TextExpander (covers jumpcut on windows)
+- BetterTouchTool
