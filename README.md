@@ -10,6 +10,7 @@ List of apps to install on allotment/requisitioning of machine
 - ssh-agent/pageant/puttygen
 - .bash_profile
 - Node/Grunt/Bower/Karma
+- getline vi mode for bash
 
 ##GUI
 - Tortoise or similar Explorer/Finder integration for svn log, diffing and blaming
