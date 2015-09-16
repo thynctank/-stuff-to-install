@@ -16,7 +16,7 @@ List of apps to install on allotment/requisitioning of machine
 - readline vi mode for bash
 
 ##GUI
-- Tortoise/SmartSVN/SourceTree (converts svn to git locally)/
+- Tortoise/SmartSVN/RapidSVN/SourceTree (converts svn to git locally)
 - SCPlugin/svn-finder scripts for Finder integration on Mathe (Tortoise gets this on Win)
 - Charles HTTP Proxy debugging
 - Chrome
